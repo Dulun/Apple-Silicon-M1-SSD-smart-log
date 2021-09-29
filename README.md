@@ -2465,3 +2465,310 @@ Error Information Log Entries:      0
 
 Read 1 entries from Error Information Log failed: GetLogPage failed: system=0x38, sub=0x0, code=745
 
+smartctl 7.2 2020-12-30 r5155 [Darwin 20.6.0 arm64] (local build)
+Copyright (C) 2002-20, Bruce Allen, Christian Franke, www.smartmontools.org
+
+=== START OF INFORMATION SECTION ===
+Model Number:                       APPLE SSD AP0512Q
+Serial Number:                      0ba0127a24b4481b
+Firmware Version:                   2.120.4
+PCI Vendor/Subsystem ID:            0x106b
+IEEE OUI Identifier:                0x000000
+Controller ID:                      0
+NVMe Version:                       <1.2
+Number of Namespaces:               3
+Local Time is:                      Mon Sep 13 14:02:10 2021 CST
+Firmware Updates (0x02):            1 Slot
+Optional Admin Commands (0x0004):   Frmw_DL
+Optional NVM Commands (0x0004):     DS_Mngmt
+Maximum Data Transfer Size:         256 Pages
+
+Supported Power States
+St Op     Max   Active     Idle   RL RT WL WT  Ent_Lat  Ex_Lat
+ 0 +     0.00W       -        -    0  0  0  0        0       0
+
+=== START OF SMART DATA SECTION ===
+SMART overall-health self-assessment test result: PASSED
+
+SMART/Health Information (NVMe Log 0x02)
+Critical Warning:                   0x00
+Temperature:                        34 Celsius
+Available Spare:                    100%
+Available Spare Threshold:          99%
+Percentage Used:                    0%
+Data Units Read:                    28,047,078 [14.3 TB]
+Data Units Written:                 19,766,631 [10.1 TB]
+Host Read Commands:                 382,733,086
+Host Write Commands:                247,914,374
+Controller Busy Time:               0
+Power Cycles:                       154
+Power On Hours:                     283
+Unsafe Shutdowns:                   8
+Media and Data Integrity Errors:    0
+Error Information Log Entries:      0
+
+Read 1 entries from Error Information Log failed: GetLogPage failed: system=0x38, sub=0x0, code=745
+
+smartctl 7.2 2020-12-30 r5155 [Darwin 20.6.0 arm64] (local build)
+Copyright (C) 2002-20, Bruce Allen, Christian Franke, www.smartmontools.org
+
+=== START OF INFORMATION SECTION ===
+Model Number:                       APPLE SSD AP0512Q
+Serial Number:                      0ba0127a24b4481b
+Firmware Version:                   2.120.4
+PCI Vendor/Subsystem ID:            0x106b
+IEEE OUI Identifier:                0x000000
+Controller ID:                      0
+NVMe Version:                       <1.2
+Number of Namespaces:               3
+Local Time is:                      Tue Sep 14 22:30:11 2021 CST
+Firmware Updates (0x02):            1 Slot
+Optional Admin Commands (0x0004):   Frmw_DL
+Optional NVM Commands (0x0004):     DS_Mngmt
+Maximum Data Transfer Size:         256 Pages
+
+Supported Power States
+St Op     Max   Active     Idle   RL RT WL WT  Ent_Lat  Ex_Lat
+ 0 +     0.00W       -        -    0  0  0  0        0       0
+
+=== START OF SMART DATA SECTION ===
+SMART overall-health self-assessment test result: PASSED
+
+SMART/Health Information (NVMe Log 0x02)
+Critical Warning:                   0x00
+Temperature:                        41 Celsius
+Available Spare:                    100%
+Available Spare Threshold:          99%
+Percentage Used:                    0%
+Data Units Read:                    28,622,664 [14.6 TB]
+Data Units Written:                 19,884,773 [10.1 TB]
+Host Read Commands:                 431,318,200
+Host Write Commands:                252,340,433
+Controller Busy Time:               0
+Power Cycles:                       154
+Power On Hours:                     291
+Unsafe Shutdowns:                   8
+Media and Data Integrity Errors:    0
+Error Information Log Entries:      0
+
+Read 1 entries from Error Information Log failed: GetLogPage failed: system=0x38, sub=0x0, code=745
+
+smartctl 7.2 2020-12-30 r5155 [Darwin 20.6.0 arm64] (local build)
+Copyright (C) 2002-20, Bruce Allen, Christian Franke, www.smartmontools.org
+
+=== START OF INFORMATION SECTION ===
+Model Number:                       APPLE SSD AP0512Q
+Serial Number:                      0ba0127a24b4481b
+Firmware Version:                   2.120.4
+PCI Vendor/Subsystem ID:            0x106b
+IEEE OUI Identifier:                0x000000
+Controller ID:                      0
+NVMe Version:                       <1.2
+Number of Namespaces:               3
+Local Time is:                      Thu Sep 16 22:49:05 2021 CST
+Firmware Updates (0x02):            1 Slot
+Optional Admin Commands (0x0004):   Frmw_DL
+Optional NVM Commands (0x0004):     DS_Mngmt
+Maximum Data Transfer Size:         256 Pages
+
+Supported Power States
+St Op     Max   Active     Idle   RL RT WL WT  Ent_Lat  Ex_Lat
+ 0 +     0.00W       -        -    0  0  0  0        0       0
+
+=== START OF SMART DATA SECTION ===
+SMART overall-health self-assessment test result: PASSED
+
+SMART/Health Information (NVMe Log 0x02)
+Critical Warning:                   0x00
+Temperature:                        44 Celsius
+Available Spare:                    100%
+Available Spare Threshold:          99%
+Percentage Used:                    0%
+Data Units Read:                    29,393,164 [15.0 TB]
+Data Units Written:                 20,120,803 [10.3 TB]
+Host Read Commands:                 471,525,413
+Host Write Commands:                257,966,764
+Controller Busy Time:               0
+Power Cycles:                       156
+Power On Hours:                     301
+Unsafe Shutdowns:                   8
+Media and Data Integrity Errors:    0
+Error Information Log Entries:      0
+
+Read 1 entries from Error Information Log failed: GetLogPage failed: system=0x38, sub=0x0, code=745
+
+smartctl 7.2 2020-12-30 r5155 [Darwin 20.6.0 arm64] (local build)
+Copyright (C) 2002-20, Bruce Allen, Christian Franke, www.smartmontools.org
+
+=== START OF INFORMATION SECTION ===
+Model Number:                       APPLE SSD AP0512Q
+Serial Number:                      0ba0127a24b4481b
+Firmware Version:                   2.120.4
+PCI Vendor/Subsystem ID:            0x106b
+IEEE OUI Identifier:                0x000000
+Controller ID:                      0
+NVMe Version:                       <1.2
+Number of Namespaces:               3
+Local Time is:                      Wed Sep 22 15:56:30 2021 CST
+Firmware Updates (0x02):            1 Slot
+Optional Admin Commands (0x0004):   Frmw_DL
+Optional NVM Commands (0x0004):     DS_Mngmt
+Maximum Data Transfer Size:         256 Pages
+
+Supported Power States
+St Op     Max   Active     Idle   RL RT WL WT  Ent_Lat  Ex_Lat
+ 0 +     0.00W       -        -    0  0  0  0        0       0
+
+=== START OF SMART DATA SECTION ===
+SMART overall-health self-assessment test result: PASSED
+
+SMART/Health Information (NVMe Log 0x02)
+Critical Warning:                   0x00
+Temperature:                        37 Celsius
+Available Spare:                    100%
+Available Spare Threshold:          99%
+Percentage Used:                    0%
+Data Units Read:                    30,428,453 [15.5 TB]
+Data Units Written:                 20,533,043 [10.5 TB]
+Host Read Commands:                 499,061,780
+Host Write Commands:                267,925,892
+Controller Busy Time:               0
+Power Cycles:                       157
+Power On Hours:                     317
+Unsafe Shutdowns:                   8
+Media and Data Integrity Errors:    0
+Error Information Log Entries:      0
+
+Read 1 entries from Error Information Log failed: GetLogPage failed: system=0x38, sub=0x0, code=745
+
+smartctl 7.2 2020-12-30 r5155 [Darwin 20.6.0 arm64] (local build)
+Copyright (C) 2002-20, Bruce Allen, Christian Franke, www.smartmontools.org
+
+=== START OF INFORMATION SECTION ===
+Model Number:                       APPLE SSD AP0512Q
+Serial Number:                      0ba0127a24b4481b
+Firmware Version:                   2.120.4
+PCI Vendor/Subsystem ID:            0x106b
+IEEE OUI Identifier:                0x000000
+Controller ID:                      0
+NVMe Version:                       <1.2
+Number of Namespaces:               3
+Local Time is:                      Tue Sep 28 00:22:16 2021 CST
+Firmware Updates (0x02):            1 Slot
+Optional Admin Commands (0x0004):   Frmw_DL
+Optional NVM Commands (0x0004):     DS_Mngmt
+Maximum Data Transfer Size:         256 Pages
+
+Supported Power States
+St Op     Max   Active     Idle   RL RT WL WT  Ent_Lat  Ex_Lat
+ 0 +     0.00W       -        -    0  0  0  0        0       0
+
+=== START OF SMART DATA SECTION ===
+SMART overall-health self-assessment test result: PASSED
+
+SMART/Health Information (NVMe Log 0x02)
+Critical Warning:                   0x00
+Temperature:                        35 Celsius
+Available Spare:                    100%
+Available Spare Threshold:          99%
+Percentage Used:                    0%
+Data Units Read:                    33,024,552 [16.9 TB]
+Data Units Written:                 22,087,598 [11.3 TB]
+Host Read Commands:                 562,067,908
+Host Write Commands:                286,382,996
+Controller Busy Time:               0
+Power Cycles:                       157
+Power On Hours:                     347
+Unsafe Shutdowns:                   8
+Media and Data Integrity Errors:    0
+Error Information Log Entries:      0
+
+Read 1 entries from Error Information Log failed: GetLogPage failed: system=0x38, sub=0x0, code=745
+
+smartctl 7.2 2020-12-30 r5155 [Darwin 20.6.0 arm64] (local build)
+Copyright (C) 2002-20, Bruce Allen, Christian Franke, www.smartmontools.org
+
+=== START OF INFORMATION SECTION ===
+Model Number:                       APPLE SSD AP0512Q
+Serial Number:                      0ba0127a24b4481b
+Firmware Version:                   2.120.4
+PCI Vendor/Subsystem ID:            0x106b
+IEEE OUI Identifier:                0x000000
+Controller ID:                      0
+NVMe Version:                       <1.2
+Number of Namespaces:               3
+Local Time is:                      Tue Sep 28 23:01:38 2021 CST
+Firmware Updates (0x02):            1 Slot
+Optional Admin Commands (0x0004):   Frmw_DL
+Optional NVM Commands (0x0004):     DS_Mngmt
+Maximum Data Transfer Size:         256 Pages
+
+Supported Power States
+St Op     Max   Active     Idle   RL RT WL WT  Ent_Lat  Ex_Lat
+ 0 +     0.00W       -        -    0  0  0  0        0       0
+
+=== START OF SMART DATA SECTION ===
+SMART overall-health self-assessment test result: PASSED
+
+SMART/Health Information (NVMe Log 0x02)
+Critical Warning:                   0x00
+Temperature:                        37 Celsius
+Available Spare:                    100%
+Available Spare Threshold:          99%
+Percentage Used:                    0%
+Data Units Read:                    33,789,345 [17.3 TB]
+Data Units Written:                 22,447,798 [11.4 TB]
+Host Read Commands:                 571,353,732
+Host Write Commands:                289,247,609
+Controller Busy Time:               0
+Power Cycles:                       158
+Power On Hours:                     351
+Unsafe Shutdowns:                   8
+Media and Data Integrity Errors:    0
+Error Information Log Entries:      0
+
+Read 1 entries from Error Information Log failed: GetLogPage failed: system=0x38, sub=0x0, code=745
+
+smartctl 7.2 2020-12-30 r5155 [Darwin 20.6.0 arm64] (local build)
+Copyright (C) 2002-20, Bruce Allen, Christian Franke, www.smartmontools.org
+
+=== START OF INFORMATION SECTION ===
+Model Number:                       APPLE SSD AP0512Q
+Serial Number:                      0ba0127a24b4481b
+Firmware Version:                   2.120.4
+PCI Vendor/Subsystem ID:            0x106b
+IEEE OUI Identifier:                0x000000
+Controller ID:                      0
+NVMe Version:                       <1.2
+Number of Namespaces:               3
+Local Time is:                      Wed Sep 29 18:05:14 2021 CST
+Firmware Updates (0x02):            1 Slot
+Optional Admin Commands (0x0004):   Frmw_DL
+Optional NVM Commands (0x0004):     DS_Mngmt
+Maximum Data Transfer Size:         256 Pages
+
+Supported Power States
+St Op     Max   Active     Idle   RL RT WL WT  Ent_Lat  Ex_Lat
+ 0 +     0.00W       -        -    0  0  0  0        0       0
+
+=== START OF SMART DATA SECTION ===
+SMART overall-health self-assessment test result: PASSED
+
+SMART/Health Information (NVMe Log 0x02)
+Critical Warning:                   0x00
+Temperature:                        44 Celsius
+Available Spare:                    100%
+Available Spare Threshold:          99%
+Percentage Used:                    0%
+Data Units Read:                    33,910,136 [17.3 TB]
+Data Units Written:                 22,489,965 [11.5 TB]
+Host Read Commands:                 574,916,709
+Host Write Commands:                290,803,287
+Controller Busy Time:               0
+Power Cycles:                       159
+Power On Hours:                     353
+Unsafe Shutdowns:                   8
+Media and Data Integrity Errors:    0
+Error Information Log Entries:      0
+
+Read 1 entries from Error Information Log failed: GetLogPage failed: system=0x38, sub=0x0, code=745
